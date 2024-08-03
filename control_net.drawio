@@ -49,6 +49,15 @@
         <mxCell id="1zfe7kvmTq27haUB3hsg-22" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;EDICT&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1049" y="155" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="1zfe7kvmTq27haUB3hsg-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="720" y="240" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1zfe7kvmTq27haUB3hsg-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFF00;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="895" y="270" width="25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1zfe7kvmTq27haUB3hsg-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFF00;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="255" width="30" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
