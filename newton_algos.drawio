@@ -4,8 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GNqJ07BhzFK_fjSl9vvM-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=90;" vertex="1" parent="1">
-          <mxGeometry x="250" y="290" width="1090" height="120" as="geometry" />
+        <mxCell id="GNqJ07BhzFK_fjSl9vvM-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="190" y="270" width="1090" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GNqJ07BhzFK_fjSl9vvM-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;strokeColor=#82b366;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="190" y="420" width="1090" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GNqJ07BhzFK_fjSl9vvM-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#82b366;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="190" y="570" width="1090" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
