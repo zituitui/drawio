@@ -1,17 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="AqxzG7m0g4bZ2bkXmMBC">
-    <mxGraphModel dx="1631" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1919" dy="1096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GNqJ07BhzFK_fjSl9vvM-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="30" y="330" width="1250" height="80" as="geometry" />
+          <mxGeometry x="30" y="330" width="1490" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GNqJ07BhzFK_fjSl9vvM-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;strokeColor=#82b366;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="30" y="420" width="1250" height="80" as="geometry" />
+          <mxGeometry x="30" y="420" width="1490" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GNqJ07BhzFK_fjSl9vvM-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#82b366;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="30" y="510" width="1250" height="80" as="geometry" />
+          <mxGeometry x="30" y="510" width="1490" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GNqJ07BhzFK_fjSl9vvM-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;opacity=50;dashed=1;strokeWidth=5;" parent="1" vertex="1">
           <mxGeometry x="300" y="310" width="320" height="300" as="geometry" />
@@ -35,16 +35,16 @@
           <mxGeometry x="310" y="495" width="300" height="110" as="geometry" />
         </mxCell>
         <mxCell id="GNqJ07BhzFK_fjSl9vvM-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;opacity=50;dashed=1;strokeWidth=5;" parent="1" vertex="1">
-          <mxGeometry x="635" y="310" width="395" height="300" as="geometry" />
+          <mxGeometry x="690" y="310" width="395" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="GNqJ07BhzFK_fjSl9vvM-17" value="&lt;span style=&quot;color: rgb(31, 31, 31); font-family: &amp;quot;Times New Roman&amp;quot;; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Newton Descent&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;opacity=30;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="630" y="315" width="300" height="110" as="geometry" />
+        <mxCell id="GNqJ07BhzFK_fjSl9vvM-17" value="&lt;span style=&quot;color: rgb(31, 31, 31); font-family: &amp;quot;Times New Roman&amp;quot;; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Newton Descent&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;opacity=30;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="775" y="315" width="300" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="GNqJ07BhzFK_fjSl9vvM-18" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 30px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#1f1f1f&quot;&gt;Newton-Langevin Dynamics&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;opacity=30;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="670" y="405" width="360" height="110" as="geometry" />
+        <mxCell id="GNqJ07BhzFK_fjSl9vvM-18" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot; face=&quot;Times New Roman&quot; color=&quot;#1f1f1f&quot;&gt;Newton-Langevin Dynamics&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;opacity=30;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="725" y="405" width="360" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="GNqJ07BhzFK_fjSl9vvM-19" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 30px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#1f1f1f&quot;&gt;Langevin Dynamics&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;opacity=30;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="630" y="495" width="300" height="110" as="geometry" />
+        <mxCell id="GNqJ07BhzFK_fjSl9vvM-19" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(31, 31, 31); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 24px;&quot;&gt;Annealed Newton-Langevin Dynamics&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(31, 31, 31); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 24px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (Not practical)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;opacity=30;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="715" y="495" width="380" height="110" as="geometry" />
         </mxCell>
         <mxCell id="GNqJ07BhzFK_fjSl9vvM-20" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 30px;&quot;&gt;&lt;font color=&quot;#666666&quot; face=&quot;Times New Roman&quot;&gt;Analogy&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;opacity=30;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="300" y="230" width="300" height="110" as="geometry" />
