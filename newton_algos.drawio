@@ -46,6 +46,9 @@
         <mxCell id="GNqJ07BhzFK_fjSl9vvM-19" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 30px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#1f1f1f&quot;&gt;Langevin Dynamics&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;opacity=30;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="570" y="495" width="300" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="GNqJ07BhzFK_fjSl9vvM-20" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 30px;&quot;&gt;&lt;font color=&quot;#666666&quot; face=&quot;Times New Roman&quot;&gt;Analogy&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;opacity=30;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="230" width="300" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
