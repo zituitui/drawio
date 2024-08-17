@@ -67,6 +67,12 @@
         <mxCell id="BzcaFJo_kOcus-iFu_HU-6" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 30px;&quot;&gt;&lt;font color=&quot;#666666&quot; face=&quot;Times New Roman&quot;&gt;Analogy&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;opacity=30;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1120" y="230" width="300" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="BzcaFJo_kOcus-iFu_HU-8" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="290" as="sourcePoint" />
+            <mxPoint x="730" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
