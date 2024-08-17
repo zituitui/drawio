@@ -28,7 +28,7 @@
         <mxCell id="GNqJ07BhzFK_fjSl9vvM-10" value="&lt;span style=&quot;color: rgb(31, 31, 31); font-size: 20px; text-align: left;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;Gradient descent&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="510" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GNqJ07BhzFK_fjSl9vvM-12" value="&lt;span style=&quot;color: rgb(31, 31, 31); font-family: &amp;quot;Times New Roman&amp;quot;; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Gradient descent&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0000FF;strokeColor=#82b366;opacity=30;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="GNqJ07BhzFK_fjSl9vvM-12" value="&lt;span style=&quot;color: rgb(31, 31, 31); font-family: &amp;quot;Times New Roman&amp;quot;; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Gradient descent&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;opacity=30;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="290" width="150" height="110" as="geometry" />
         </mxCell>
       </root>
