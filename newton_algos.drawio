@@ -16,10 +16,10 @@
         <mxCell id="GNqJ07BhzFK_fjSl9vvM-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;opacity=50;dashed=1;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="280" y="310" width="320" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="GNqJ07BhzFK_fjSl9vvM-6" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;Optimization Methods&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="GNqJ07BhzFK_fjSl9vvM-6" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;Optimization&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="100" y="335" width="60" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="GNqJ07BhzFK_fjSl9vvM-7" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;MCMC Sampling&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="GNqJ07BhzFK_fjSl9vvM-7" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;MCMC Sampling&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="100" y="445" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GNqJ07BhzFK_fjSl9vvM-9" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;Diffusion Models Sampling&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
