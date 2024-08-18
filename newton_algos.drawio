@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="AqxzG7m0g4bZ2bkXmMBC">
-    <mxGraphModel dx="1631" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1919" dy="1096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
         <mxCell id="GNqJ07BhzFK_fjSl9vvM-18" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot; face=&quot;Times New Roman&quot; color=&quot;#1f1f1f&quot;&gt;Newton-Langevin Dynamics&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;opacity=30;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="670" y="405" width="360" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="GNqJ07BhzFK_fjSl9vvM-19" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(31, 31, 31); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 24px;&quot;&gt;Annealed Newton-Langevin Dynamics&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(31, 31, 31); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 24px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (Not computationally practical)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;opacity=30;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="GNqJ07BhzFK_fjSl9vvM-19" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(31, 31, 31); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 24px;&quot;&gt;Annealed Newton-Langevin Dynamics&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(31, 31, 31); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 24px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;b&gt;(Not computationally practical)&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;opacity=30;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="637" y="495" width="380" height="110" as="geometry" />
         </mxCell>
         <mxCell id="GNqJ07BhzFK_fjSl9vvM-20" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Analogues&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;opacity=30;gradientColor=none;" parent="1" vertex="1">
