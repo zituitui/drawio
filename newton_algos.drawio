@@ -91,8 +91,8 @@
         <mxCell id="hu-aVfQ1h1uBg1m3EEwn-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 33px;&quot; face=&quot;Times New Roman&quot;&gt;add Hessian geometry&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;opacity=30;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="710" y="585" width="300" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="hu-aVfQ1h1uBg1m3EEwn-5" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#4d4d4d&quot;&gt;&lt;span style=&quot;font-size: 33px;&quot;&gt;Tikhonov regularization&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;opacity=30;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="585" width="340" height="110" as="geometry" />
+        <mxCell id="hu-aVfQ1h1uBg1m3EEwn-5" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#4d4d4d&quot;&gt;&lt;span style=&quot;font-size: 33px;&quot;&gt;add Tikhonov regularization&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;opacity=30;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="585" width="390" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
