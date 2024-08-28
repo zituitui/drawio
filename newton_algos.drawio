@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="AqxzG7m0g4bZ2bkXmMBC">
-    <mxGraphModel dx="1919" dy="1096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1631" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,13 +67,13 @@
         <mxCell id="BzcaFJo_kOcus-iFu_HU-6" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(77, 77, 77); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 33px;&quot;&gt;Analogues&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;opacity=30;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="1185" y="230" width="300" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="BzcaFJo_kOcus-iFu_HU-8" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="BzcaFJo_kOcus-iFu_HU-8" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#4D4D4D;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="290" as="sourcePoint" />
             <mxPoint x="730" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BzcaFJo_kOcus-iFu_HU-9" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="BzcaFJo_kOcus-iFu_HU-9" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#4D4D4D;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="910" y="290" as="sourcePoint" />
             <mxPoint x="1260" y="290" as="targetPoint" />
@@ -85,13 +85,13 @@
         <mxCell id="BzcaFJo_kOcus-iFu_HU-11" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 27px;&quot;&gt;Computationally Efficient&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="930" y="250" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hu-aVfQ1h1uBg1m3EEwn-3" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 33px;&quot; face=&quot;Times New Roman&quot;&gt;only use gradients&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;opacity=30;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="hu-aVfQ1h1uBg1m3EEwn-3" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 33px;&quot; face=&quot;Times New Roman&quot;&gt;only use gradients&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;opacity=30;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="290" y="585" width="300" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="hu-aVfQ1h1uBg1m3EEwn-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 33px;&quot; face=&quot;Times New Roman&quot;&gt;add Hessian geometry&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;opacity=30;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="hu-aVfQ1h1uBg1m3EEwn-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 33px;&quot; face=&quot;Times New Roman&quot;&gt;add Hessian geometry&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;opacity=30;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="710" y="585" width="300" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="hu-aVfQ1h1uBg1m3EEwn-5" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#4d4d4d&quot;&gt;&lt;span style=&quot;font-size: 33px;&quot;&gt;add damping Identity matrix&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;opacity=30;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="hu-aVfQ1h1uBg1m3EEwn-5" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#4d4d4d&quot;&gt;&lt;span style=&quot;font-size: 33px;&quot;&gt;add damping Identity matrix&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;opacity=30;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="1160" y="585" width="390" height="110" as="geometry" />
         </mxCell>
       </root>
