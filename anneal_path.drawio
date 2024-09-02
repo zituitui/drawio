@@ -25,6 +25,18 @@
         <mxCell id="tqPr3qISnYxZAip9u7IL-6" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;Annealing Path: DDPM / DDIM / PNDM / DPM-Solver ....&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="327" y="490" width="1000" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="tqPr3qISnYxZAip9u7IL-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="262.5" y="150" width="130" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="tqPr3qISnYxZAip9u7IL-8" value="&lt;span style=&quot;color: rgb(31, 31, 31); font-family: &amp;quot;Times New Roman&amp;quot;; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;&lt;b&gt;LD&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;opacity=30;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265" y="169.38" width="127.5" height="46.25" as="geometry" />
+        </mxCell>
+        <mxCell id="tqPr3qISnYxZAip9u7IL-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="400" y="240" width="130" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="tqPr3qISnYxZAip9u7IL-10" value="&lt;span style=&quot;color: rgb(31, 31, 31); font-family: &amp;quot;Times New Roman&amp;quot;; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;&lt;b&gt;LM-Hessian&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;opacity=30;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="402.5" y="259.38" width="297.5" height="46.25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
