@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="第 1 页" id="dIRxvlyI1HhwIaxbLB_8">
-    <mxGraphModel dx="1125" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="938" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,7 +29,7 @@
           <mxGeometry x="235" y="680" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xIlgxLBxDUJ2IaUmx_QX-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;strokeColor=#FFFF00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;opacity=70;" parent="1" vertex="1">
-          <mxGeometry x="220" y="620" width="70" height="60" as="geometry" />
+          <mxGeometry x="230" y="620" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xIlgxLBxDUJ2IaUmx_QX-14" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; line-height: normal;&quot; class=&quot;p1&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;A red fire hydrant stands on the sidewalk by the street.&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=none;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="210" y="70" width="170" height="140" as="geometry" />
@@ -54,6 +54,12 @@
         </mxCell>
         <mxCell id="tMzfbk0I4-2vkGLlj8_B-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;NLL = 27.31&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tMzfbk0I4-2vkGLlj8_B-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;strokeColor=#FFFF00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="397" y="614" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tMzfbk0I4-2vkGLlj8_B-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;strokeColor=#FFFF00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="421" y="434" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
