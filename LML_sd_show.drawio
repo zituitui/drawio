@@ -40,9 +40,6 @@
         <mxCell id="DnUSfH9Ss_c7hlBENZ7a-13" value="&lt;font style=&quot;&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;Stable Diffusion v2-base&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="1050" y="70" width="350" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DnUSfH9Ss_c7hlBENZ7a-14" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;NFE=10&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="295" y="95" width="130" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="DnUSfH9Ss_c7hlBENZ7a-17" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;DDIM&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1070" y="135" width="100" height="50" as="geometry" />
         </mxCell>
