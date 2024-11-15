@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="第 1 页" id="AqxzG7m0g4bZ2bkXmMBC">
-    <mxGraphModel dx="1722" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2091" dy="1294" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,7 +53,7 @@
           <mxGeometry x="235" y="320" width="60" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GNqJ07BhzFK_fjSl9vvM-7" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;MCMC Sampling&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=26;" parent="1" vertex="1">
-          <mxGeometry x="120" y="420" width="290" height="30" as="geometry" />
+          <mxGeometry x="150" y="420" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GNqJ07BhzFK_fjSl9vvM-14" value="&lt;div style=&quot;text-align: left; font-size: 26px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 26px;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot; color=&quot;#1f1f1f&quot;&gt;&lt;span style=&quot;font-size: 26px;&quot;&gt;Langevin Dynamics&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;opacity=30;gradientColor=none;fontStyle=0;fontFamily=Times New Roman;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="370" y="380" width="250" height="110" as="geometry" />
